@@ -25,7 +25,9 @@ To see my other projects, please view my GitHub profile: [Jameshughes2009](https
 This project is licensed under ISC
 
 ### Video Walkthrough Link 
+[Video 1](https://drive.google.com/file/d/1l37LnLBbsRD1ol2P21tEy6LymZ_xvn-3/view)
 
+[Video 2](https://drive.google.com/file/d/19_cuQeVnouvjBp_lWtYGuHnL3SbpDmus/view)
 
 
 
